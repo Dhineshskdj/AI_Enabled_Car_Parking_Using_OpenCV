@@ -166,4 +166,4 @@ def liv_pred():
         cv2.waitKey(10)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True,host='0.0.0.0')
