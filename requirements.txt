@@ -1,0 +1,6 @@
+opencv-python
+pickle
+cvzone
+numpy
+Flask
+ibm_db
